@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/images/Bloody-dracula.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./assets/images/Cross-rocket.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./assets/images/Double-tail-grab.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./assets/images/Japan.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./assets/images/Melon.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./assets/images/Method.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "./assets/images/Nose-grab.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./assets/images/Roast-beef.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./assets/images/Stalefish.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./assets/images/Stiffy.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./assets/images/Tail-grab.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./assets/images/Tuck-knee.jpg",
+    "clicked": false
+  }
+]
